@@ -3,6 +3,7 @@ var d = 256;
 var e = 69;
 var f = 13;
 
+
 // Xử lý dữ liệu & Hiển thị kết quả
 if (d < e && e < f) {
     console.log("Bài tập 1:",d,e,f);
