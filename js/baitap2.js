@@ -24,10 +24,8 @@ switch (answer) {
         console.log("Bài tập 2 - Chào:",E);
         break;
     }   
-
     default: {
         console.log("Bài tập 2: Chào");
         break;
-    }
-        
+    } 
 }

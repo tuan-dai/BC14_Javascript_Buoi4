@@ -3,6 +3,7 @@ var number1 = 69;
 var number2 = 123;
 var number3 = 246;
 
+
 // Xử lý dữ liệu
 if (number1 % 2 == 0) {
     var soChan1 = 1;
